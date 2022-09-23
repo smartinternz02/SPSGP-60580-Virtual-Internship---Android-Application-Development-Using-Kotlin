@@ -12,7 +12,7 @@ My Google Developer Profile Link : https://g.dev/surajmapari
 
 ScreenshotS of Grocery app :-
 # Maggi
-<img src = "https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/maggi.png" >
+<img src = "https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/maggi.png" width="150" height = "200" >
 
 # Tomatoes
 [Tomatoes](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/Tomatoes.png)
