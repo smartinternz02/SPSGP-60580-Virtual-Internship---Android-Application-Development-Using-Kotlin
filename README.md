@@ -11,6 +11,12 @@ when you go for shopping next time you don't forget anything to buy and have a t
 My Google Developer Profile Link : https://g.dev/surajmapari
 
 ScreenshotS of Grocery app :-
-# Milk
-![Hello](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/IMG3.jpg)
+# Maggi
+[](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/maggi.png)
+
+#Tomatoes
+[](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/Tomatoes.png)
+
+#Paneer
+[](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/Paneer.png)
 
