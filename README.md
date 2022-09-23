@@ -10,7 +10,9 @@ when you go for shopping next time you don't forget anything to buy and have a t
 
 My Google Developer Profile Link : https://g.dev/surajmapari
 
-ScreenshotS of Grocery app :-
+Drive Link : https://drive.google.com/drive/u/0/folders/19Z8n3cmuUlhKaY09KL51FwbC3ot9ixfF 
+
+Screenshots of Grocery app :-
 # Maggi Tomatoes Paneer
 <img src = "https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/maggi.png" width="150" height = "200" >
 
