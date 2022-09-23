@@ -12,5 +12,5 @@ My Google Developer Profile Link : https://g.dev/surajmapari
 
 ScreenshotS of Grocery app :-
 # Milk
-![Hello](SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/Media/IMG3.jpg)
+![Hello](https://github.com/smartinternz02/SPSGP-60580-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Media/IMG3.jpg)
 
